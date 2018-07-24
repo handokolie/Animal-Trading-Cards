@@ -1,0 +1,31 @@
+/* add your CSS here */
+body {
+  width: 325px;
+}
+
+.interesting_facts {
+  font-style: italic;
+}
+
+li {
+  list-style-type: none;
+}
+
+.list_items {
+  font-weight: bold;
+}
+
+div {
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgray;
+  padding: 0.7em;
+}
+
+img {
+  padding-bottom: 0.5em;
+}
+
+.shadow {
+  box-shadow: 5px 5px lightgray;
+}
